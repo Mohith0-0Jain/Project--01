@@ -1,6 +1,5 @@
 # Project-1
-<<<<<<< HEAD
-A simple project using HTML, CSS, and JavaScript to generate random jokes with a user-friendly interface.
+A simple project using HTML, CSS, and JavaScript to generate random jokes using the DOM functionality and with better UI & UX interface.
 
 ## Features
 - Generates random jokes at the click of a button
