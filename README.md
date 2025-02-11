@@ -9,5 +9,5 @@ A simple project using HTML, CSS, and JavaScript to generate random jokes using 
 - HTML
 - CSS
 - JavaScript
-=======
+
 
