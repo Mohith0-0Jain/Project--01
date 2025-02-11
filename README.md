@@ -1,2 +1,2 @@
-# Project--01
+# Project1
 Basic HTML,CSS, JavaScript Project using the DOM for functionality and better UI and UX 
