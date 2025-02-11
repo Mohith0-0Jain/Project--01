@@ -13,11 +13,10 @@ async function getdata(res){
 btn.addEventListener("click",async()=>{
 try{
     let data=await getdata();
-console.log(data);
+    console.log(data);
 
-if(data.type=="twopart"){
+    if(data.type=="twopart"){
     par.innerHTML=`${data.setup}<br>${data.delivery}`;
-    
 }else{
     par.innerText=(data.joke);
 }
